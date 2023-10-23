@@ -1,0 +1,42 @@
+{
+    "name": "Lichking",
+    "class": "Lich",
+    "level": 400,
+    "stats": {
+        "strength": 1000,
+        "dexterity": 250,
+        "intelligence": 600,
+        "agility": 80,
+        "charisma": 10,
+        "Health Points": 40000,
+        "Magic Points": 7000
+    },
+    "equipment": {
+        "weapon": "Lich Sword",
+        "armor": "Thornmail",
+        "shield": "Shield of Darkness",
+        "accessories": [
+            "God's ring",
+            "Power orb",
+            "Chaos"
+        ]
+    },
+    "inventory purse": [
+        {
+            "name": "Health Potion",
+            "quantity": 10
+        },
+        {
+            "name": "Energy potion",
+            "quantity": 10
+        },
+        {
+            "name": "Gold",
+            "quantity": 230
+        },
+        {
+            "name": "Necromancer heads",
+            "quantity": 43
+        }
+    ]
+}
